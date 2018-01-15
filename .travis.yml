@@ -14,4 +14,4 @@
   sudo:
       - false
   notifications:
-      - email: true
+      - email: always
