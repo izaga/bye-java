@@ -1,7 +1,6 @@
  language:
       - java
-  services:
-      - mysql
+  
   jdk:
       - oraclejdk8
       - openjdk7
